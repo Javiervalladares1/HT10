@@ -1,0 +1,7 @@
+London, Paris, 5, 6, 7, 8
+Berlin, Paris, 2, 3, 4, 5
+Berlin, London, 3, 4, 5, 6
+London, Rome, 1, 2, 3, 4
+Berlin, Rome, 4, 5, 6, 7
+London, Madrid, 1, 2, 3, 4
+Barcelona, Madrid, 2, 3, 4, 5
